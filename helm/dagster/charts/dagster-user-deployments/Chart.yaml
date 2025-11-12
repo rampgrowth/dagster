@@ -1,7 +1,7 @@
 ---
 apiVersion: v2
 name: dagster-user-deployments
-version: 0.0.1-dev
+version: 1.11.2
 kubeVersion: ">= 1.18.0-0"
 description: A chart to deploy code servers for your Dagster deployment.
 type: application
@@ -18,4 +18,4 @@ maintainers:
     email: support@dagsterlabs.com
     url: https://dagster.io/about
 icon: https://dagster.io/images/brand/logos/dagster-primary-mark.png
-appVersion: dev
+appVersion: 1.11.2
